@@ -1,0 +1,24 @@
+Different Screens:
+
+
+1. Home Screen 
+    -- Map
+        -- Filter by location/date and time/measure of incidents.
+        -- Zooming in and out
+        -- Navigating around the map.
+
+2. Navigation Pane
+    -- App Settings - User profiles / Sign Out
+    -- Surveys/Reporing to add information or events of occurence.
+    -- Your Neighborhood - See updates as to what is happening.
+
+
+Harsh - TODO for 10/19:
+1. Get the Map API Implementation
+3. Filtering based on location on the map
+2. Get the navigation pane along with the different screens basic user inputs.
+
+Bailey - TODO for 10/19:
+1. Get the latitude longitude information
+2. Set up Postgres on Harsh's machine - Database users
+3. Recursive query for data tagging and pulling 
