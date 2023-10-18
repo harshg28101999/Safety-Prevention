@@ -17,6 +17,8 @@ Harsh - TODO for 10/19:
 2. Filtering based on location on the map
 3. Get the navigation pane along with the different screens basic user inputs.
 4. Sort out the user names data entry into the app.
+5. Do location tagging for setting the location for the user.
+6. Information pop up based on the user's area. Highlighting the type of incident
 
 Bailey - TODO for 10/19:
 1. Get the latitude longitude information
