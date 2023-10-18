@@ -1,6 +1,5 @@
 Different Screens:
 
-
 1. Home Screen 
     -- Map
         -- Filter by location/date and time/measure of incidents.
@@ -15,10 +14,12 @@ Different Screens:
 
 Harsh - TODO for 10/19:
 1. Get the Map API Implementation
-3. Filtering based on location on the map
-2. Get the navigation pane along with the different screens basic user inputs.
+2. Filtering based on location on the map
+3. Get the navigation pane along with the different screens basic user inputs.
+4. Sort out the user names data entry into the app.
 
 Bailey - TODO for 10/19:
 1. Get the latitude longitude information
 2. Set up Postgres on Harsh's machine - Database users
 3. Recursive query for data tagging and pulling 
+4. Creating random data points for user names.
